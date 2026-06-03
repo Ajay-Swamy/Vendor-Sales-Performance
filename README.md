@@ -174,7 +174,7 @@ Used for:
 ---
 
 ## Dashboard Preview
-![Vendor Performance Dashboard](Dashboard/Screenshot 2026-06-03 115040.png)
+![Vendor Performance Dashboard](DashBoard/DashBoardPreview.png)
 
 ---
 
